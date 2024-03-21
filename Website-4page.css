@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    border: 0.5px solid rgb(145, 145, 145);
+    border-radius: 10px;
+}
+
+.para{
+    font-size: 30px;
+    margin-top: 35px;
+    text-align: center;
+}
+
+span{
+    color: rgb(5, 224, 195);
+}
+
+.main{
+    
+    margin: 20px;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+
+}
+.profils{
+    margin: 20px;
+    text-align: center;
+}
+
+.pic{
+    width: 93px;
+    height: 91px;
+    border: 3px solid rgb(16, 220, 234);
+    border-radius: 45px;
+    
+}
+
+p{
+    text-align: center;
+}
+
+.anchor:visited{
+    color: red;
+
+}
+.anchor:hover{
+    color: blue;
+}
